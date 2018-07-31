@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LBUIKit_Example' do
+  pod 'LBUIKit', :path => '../'
+
+  target 'LBUIKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
