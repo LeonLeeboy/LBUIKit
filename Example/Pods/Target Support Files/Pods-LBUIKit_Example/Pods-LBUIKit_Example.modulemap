@@ -1,0 +1,6 @@
+framework module Pods_LBUIKit_Example {
+  umbrella header "Pods-LBUIKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

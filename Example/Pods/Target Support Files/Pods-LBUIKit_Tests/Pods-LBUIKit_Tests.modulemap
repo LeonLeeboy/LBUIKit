@@ -1,0 +1,6 @@
+framework module Pods_LBUIKit_Tests {
+  umbrella header "Pods-LBUIKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
