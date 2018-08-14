@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LBUIKit'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = '一款自定义的UI，Xib 可以实现所见即所得  '
 
 

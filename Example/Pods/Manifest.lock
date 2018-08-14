@@ -1,16 +1,16 @@
 PODS:
-  - LBUIKit (0.1.0)
+  - LBUIKit (1.0.1)
 
 DEPENDENCIES:
   - LBUIKit (from `../`)
 
 EXTERNAL SOURCES:
   LBUIKit:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  LBUIKit: dd48d3405b1dc1a54ffd505e03b94cacd469518a
+  LBUIKit: 82aa8e170de6d06792ec690f9504279784deeb45
 
 PODFILE CHECKSUM: 8a728c5064c6fec492fc7c6b1749ff9950bcef50
 
-COCOAPODS: 1.3.1
+COCOAPODS: 1.5.3
